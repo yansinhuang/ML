@@ -1,1 +1,1 @@
-Some of my basic machine learning projects.
+Some basic machine learning projects.
