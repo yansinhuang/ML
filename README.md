@@ -1,1 +1,1 @@
-my github
+Some basic machine learning projects.
